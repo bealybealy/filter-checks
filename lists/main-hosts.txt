@@ -542,7 +542,6 @@
 127.0.0.1 cdn.vip-hd-movies.xyz
 127.0.0.1 platform.bidgear.com
 127.0.0.1 cdn.hubvisor.io
-127.0.0.1 servedby.studads.com
 127.0.0.1 cdn.matomo.cloud
 127.0.0.1 cdn.snigelweb.com
 127.0.0.1 g.ezoic.net
@@ -646,6 +645,7 @@
 127.0.0.1 track.postkodlotteriet.se
 127.0.0.1 mrporter-creative.prf.hn
 127.0.0.1 se-ads-microservice.ads.allermedia.io
+127.0.0.1 commercial-cms-prod.aller.se
 127.0.0.1 cdn.speedcurve.com
 127.0.0.1 x.bidswitch.net
 127.0.0.1 pixel-sync.sitescout.com
@@ -928,7 +928,6 @@
 127.0.0.1 longchampstockholm.com.se
 127.0.0.1 alkemi.com.se
 127.0.0.1 www.alphalete.com.se
-127.0.0.1 www.championsverige.com.se
 127.0.0.1 rpofsweden.com
 127.0.0.1 rpofsweden.se
 127.0.0.1 digitaliseringsinitiativet.se
